@@ -1,4 +1,6 @@
-¿Qué tipo de datos/input quiero usar?
-¿En que formato están tus datos?
-¿Qué quisieras hacer con tus datos?
-https://www.youtube.com/watch?v=8XO8Mc3VF4Q
+Título:  Alineamiento y construcción de árbol filogenético para un grupo de planta medicinales
+Videos:
+https://github.com/Majitonn/ProyectoFinalBioin/assets/171622188/e9e2f69b-4490-4d37-af40-209132fa91f5
+https://github.com/Majitonn/ProyectoFinalBioin/assets/171622188/a95392f3-69dc-4dbb-a7f0-5f061f9bb78a
+Foto: 
+![proyectobioin](https://github.com/Majitonn/ProyectoFinalBioin/assets/171622188/40144ee1-d99d-4668-9a6c-5ea4be539a27)
