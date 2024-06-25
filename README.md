@@ -1,4 +1,4 @@
-Título:  Alineamiento y construcción de árbol filogenético para un grupo de planta medicinales
+Título:  Alineamiento y construcción de filogenenia para un grupo de planta medicinales
 Obtener secuencias de ADN de un grupo de plantas medicinales de una base de datos pública.
 Realizar un alineamiento de secuencias.
 Construir un árbol filogenético 
